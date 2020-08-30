@@ -13,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1gBSTFb3a50LuATKzqXijIH0s2J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,7 +33,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app/js/main.js" working-dir="$PROJECT_DIR$/app/js">
@@ -63,7 +69,7 @@
       <workItem from="1598543958223" duration="1581000" />
       <workItem from="1598546528632" duration="223000" />
       <workItem from="1598546788854" duration="5627000" />
-      <workItem from="1598730313438" duration="1562000" />
+      <workItem from="1598730313438" duration="5476000" />
     </task>
     <servers />
   </component>
@@ -167,9 +173,10 @@
     </state>
     <state width="1417" height="259" key="GridCell.Tab.3.right/0.23.1440.827/1440.-50.1920.1057@0.23.1440.827" timestamp="1598534134867" />
     <state width="1417" height="259" key="GridCell.Tab.3.right/0.23.1440.827/1440.-50.1920.1057@1440.-50.1920.1057" timestamp="1598543768814" />
-    <state x="1741" y="15" key="SettingsEditor" timestamp="1598543609397">
-      <screen x="1440" y="-50" width="1920" height="1057" />
+    <state x="226" y="74" key="SettingsEditor" timestamp="1598796951887">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
+    <state x="226" y="74" key="SettingsEditor/0.23.1440.827/1440.-50.1920.1057@0.23.1440.827" timestamp="1598796951887" />
     <state x="1741" y="15" key="SettingsEditor/0.23.1440.827/1440.-50.1920.1057@1440.-50.1920.1057" timestamp="1598543609397" />
     <state x="226" y="74" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1597586825085" />
     <state x="384" y="200" width="670" height="676" key="search.everywhere.popup" timestamp="1598525796135">
