@@ -109,9 +109,15 @@ window.addEventListener('DOMContentLoaded', function () {
         document.body.style.overflow = '';
     });
 
+    let moreBtn = document.querySelectorAll('.description-btn');
 
-
-
+    for(let i = 0;i < moreBtn.length; i++) {
+        moreBtn[i].addEventListener('click', function () {
+            overlay.style.display = 'block';
+            this.classList.add('more-splash');
+            document.body.style.overflow = 'hidden';
+        });
+    }
 
 
 });

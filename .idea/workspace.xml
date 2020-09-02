@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45f9aa05-2061-453b-ac0b-2231d36cd1a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/yoga/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/yoga/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/yoga/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/yoga/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <workItem from="1598954462227" duration="2841000" />
       <workItem from="1599041093652" duration="365000" />
       <workItem from="1599059616768" duration="1770000" />
-      <workItem from="1599062088879" duration="1903000" />
+      <workItem from="1599062088879" duration="2416000" />
     </task>
     <servers />
   </component>
